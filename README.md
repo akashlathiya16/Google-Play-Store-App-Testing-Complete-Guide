@@ -72,7 +72,7 @@ Result: Save 6 days of progress
 
 ## 📥 Download the Complete Guide
 
-**[📄 Download PDF Version](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/raw/main/Google-Play-Store-Testing-Guide.pdf)**
+**[📄 Download PDF Version](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/blob/main/Google%20Play%20Store%20App%20Testing%20Complete%20Guide.pdf)**
 
 **[📝 View Markdown Version](Google-Play-Store-Testing-Guide.md)**
 
@@ -242,7 +242,7 @@ Google-Play-Store-App-Testing-Complete-Guide/
 
 ## 🔗 Quick Links
 
-- [📄 Download PDF](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/raw/main/Google-Play-Store-Testing-Guide.pdf)
+- [📄 Download PDF](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/blob/main/Google%20Play%20Store%20App%20Testing%20Complete%20Guide.pdf)
 - [📝 Read Markdown Version](Google-Play-Store-Testing-Guide.md)
 - [💬 Discussions](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/discussions)
 - [🐛 Report Issues](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/issues)
@@ -297,4 +297,4 @@ Starting Google Play Testing?
 
 **Don't let confusion cost you weeks. Download the guide now!**
 
-[📥 Get the PDF](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/raw/main/Google-Play-Store-Testing-Guide.pdf) | [📖 Read Online](Google-Play-Store-Testing-Guide.md)
+[📥 Get the PDF](https://github.com/akashlathiya16/Google-Play-Store-App-Testing-Complete-Guide/blob/main/Google%20Play%20Store%20App%20Testing%20Complete%20Guide.pdf) | [📖 Read Online](Google-Play-Store-Testing-Guide.md)
